@@ -20,6 +20,7 @@ An SQL and the corresponding item will also be made available in this repository
 |Installation|
 |---|
 
+```yarn
 Step 1.) Download
 Step 2.) Unpack
 Step 3.) WinSCP or the corresponding FTP program
@@ -29,3 +30,4 @@ Step 5.) Upload the archive just unpacked to the Resource Directory on your serv
 Now enter the resource in your server.cfg (Start Themeparkweedmlo)
 
 Restart server ...
+```
