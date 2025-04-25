@@ -8,4 +8,7 @@ author 'AlphaDevelopment'
 description 'Themepark Weed MLO'
 version '1.0'
 
-dependency '/assetpacks'
+dependency {
+    '/assetpacks',
+    'es-extended'
+}
