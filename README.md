@@ -2,6 +2,7 @@
 
 ```yarn
 FiveM | ESX | Cannabis Weed MLO + stand
+FiveM Optimized
 ```
 
 
