@@ -21,6 +21,4 @@ FiveM Optimized
 ```yarn
 At a later point in time I will add a script that it is possible to harvest the cannabis
 to every single point.
-
-An SQL and the corresponding item will also be made available in this repository
 ```
