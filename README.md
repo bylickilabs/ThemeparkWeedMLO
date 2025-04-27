@@ -1,8 +1,9 @@
 # ThemeparkWeedMLO
 
 ```yarn
-FiveM | ESX | Cannabis Weed MLO + stand
-FiveM Optimized
+• FiveM | ESX | Cannabis Weed MLO + stand
+• FiveM Optimized
+• 99,9 Bug Fixed
 ```
 
 |[Available on my Tebex Store](https://alphadevelopment.tebex.io/checkout/packages/add/6803128/single)|
