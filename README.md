@@ -16,8 +16,9 @@
 |---|
 
 
-|![weed1](https://github.com/user-attachments/assets/818b2fd6-ad75-4bf1-a5e2-cd56c992a63a)|![weed2](https://github.com/user-attachments/assets/e961377b-4f89-4bb3-89be-86e262a7ab08)|![weed3](https://github.com/user-attachments/assets/bd7039ec-f303-4fb1-bcca-9973b54bec1a)|![weed4](https://github.com/user-attachments/assets/49e04f2b-6d4b-4a29-85e5-db4e305defb9)
+|![weed1](https://github.com/user-attachments/assets/168bb993-020c-4c5b-98f9-c59e7c19f44b)|![weed2](https://github.com/user-attachments/assets/3e1f79d9-334c-454b-8d46-8c7b89ea759b)|![weed3](https://github.com/user-attachments/assets/c1da363e-9eb5-4404-b681-8c7f6a5a398e)|![weed4](https://github.com/user-attachments/assets/3334bf5d-973d-445b-95f4-8ae44153f3a6)|![weed5](https://github.com/user-attachments/assets/3fd538df-e5b7-4d9e-90cd-2df2ffc72fb7)|
 |---|---|---|---|
+
 
 ```yarn
 At a later point in time I will add a script that it is possible to harvest the cannabis
