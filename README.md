@@ -1,4 +1,4 @@
-# ThemeparkWeedMLO
+# Ultimate Drug System + WeedMLO + Ped spawn + Cleaned Vespucci Beach
 
 ```yarn
 • FiveM | ESX | Cannabis Weed MLO + stand
@@ -6,7 +6,7 @@
 • 99,9 Bug Fixed
 ```
 
-|[Available on my Tebex Store](https://alphadevelopment.tebex.io/checkout/packages/add/6803128/single)|
+|[Available on my Tebex Store](https://alphadevelopment.tebex.io/checkout/packages/add/6807713/single)|
 |---|
 
 |SCREENSHOTS|
