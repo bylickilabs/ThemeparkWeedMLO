@@ -1,5 +1,5 @@
 ### Ultimate Drug System + WeedMLO + Ped spawn + Cleaned Vespucci Beach
-
+### Tip.: Don't hit the Dog
 ```yarn
 • FiveM | ESX | Cannabis Weed MLO + stand
 • FiveM Optimized
