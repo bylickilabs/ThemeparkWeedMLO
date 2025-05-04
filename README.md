@@ -6,7 +6,7 @@
 • 99,9 Bug Fixed
 ```
 
-|[Available on my Tebex Store](https://alphadevelopment.tebex.io/checkout/packages/add/6807713/single)|
+|[Available on AlphaDevelopment Tebex Store](https://alphadevelopment.tebex.io/checkout/packages/add/6807713/single)|
 |---|
 
 |SCREENSHOTS|
